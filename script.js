@@ -18,8 +18,8 @@ const songs = [
     artist: 'Ustaz Kalla',
   },
   {
-    name: 'bagara01-43',
-    displayName: 'Bagara',
+    name: '2-bagara01-43',
+    displayName: 'Bagara 01-43',
     artist: 'Ustaz Kalla',
   },
 ];
